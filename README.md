@@ -1,9 +1,4 @@
 ### Olá! Eu sou Alexandre de Barros,
-## Sou uma pessoa curiosa e que gosta de resolver problemas. Aprender faz parte do meu dia a dia e os desafios me mantém sempre motivado a descobrir as melhores soluções.
-## Constantemente à procura de oportunidades profissionais que permitam meu desenvolvimento pessoal, profissional e técnico. 
-## Apaixonado por ambientes desafiadores e de aprendizagem, com a intenção de movimentar todos os recursos para um objetivo comum.
-
-
 
 <div align="center">
   <a href="https://github.com/juniorbarros20">

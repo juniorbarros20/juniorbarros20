@@ -1,4 +1,8 @@
 ### Olá! Eu sou Alexandre de Barros
+### Constantemente à procura de oportunidades profissionais que permitam meu desenvolvimento pessoal, profissional e técnico. 
+### Apaixonado por ambientes desafiadores e de aprendizagem, com a intenção de movimentar todos os recursos para um objetivo comum.
+### Sou uma pessoa curiosa e que gosta de resolver problemas. Aprender faz parte do meu dia a dia e os desafios me mantém sempre motivado a descobrir as melhores soluções.
+
 <div align="center">
   <a href="https://github.com/juniorbarros20">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=juniorbarros20&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>

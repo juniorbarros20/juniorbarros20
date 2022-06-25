@@ -1,8 +1,8 @@
 ### Olá! Eu sou Alexandre de Barros,
 
 <div align="center"><a href="https://github.com/juniorbarros20">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=juniorbarros20&count_private=true&show_icons=true&theme=algolia"/> 
-  <img height="180em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=juniorbarros20&layout=compact&langs_count=7&theme=algolia"/></p>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=juniorbarros20&count_private=true&show_icons=true&theme=algolia"/> 
+  <img height="160em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=juniorbarros20&layout=compact&langs_count=7&theme=algolia"/></p>
   </a>
 </div>
 
